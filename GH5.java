@@ -1276,6 +1276,6 @@ public class GH5 {
       }
       number = number + 1;
     } // end while game is played
-    System.out.println("Game over! The winner of the game is " + gameOver + " .");
+    System.out.println("Game over! The winner of the game is " + gameOver + ".");
   }
 }
